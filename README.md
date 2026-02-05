@@ -20,7 +20,7 @@ Frontend:Figma, HTML, CSS, JavaScript, REACT JS
 
 - **Tools:** Git, GitHub, VS Code, Agile Scrum
 
-### 🤝 I'm looking to collaborate on:
+🤝 I'm looking to collaborate on:
 - Beginner-friendly open source projects
 - Web development projects (front-end or full-stack)
 - Hackathons and tech communities
@@ -28,4 +28,4 @@ Frontend:Figma, HTML, CSS, JavaScript, REACT JS
  📫 How to reach me:
 - Email: niteshgoswami72812@gmail.com
 - LinkedIn:https://www.linkedin.com/in/nitesh-goswami-b09324312/
--GitHub: Niteshgoswami72812-create
+- GitHub: Niteshgoswami72812-create
