@@ -27,5 +27,5 @@ Frontend:Figma, HTML, CSS, JavaScript, REACT JS
 
  📫 How to reach me:
 - Email: niteshgoswami72812@gmail.com
-- LinkedIn:------Niteshgoswami72812-create
+- LinkedIn:------Niteshgoswami72812-createNiteshgoswami72812-createNiteshgoswami72812-create
 -GitHub: Niteshgoswami72812-create
